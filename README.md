@@ -1,4 +1,4 @@
-# dswvuejstfi
+# Trabajo Final Integrador para el curso "Desarrollo de Aplicaciones Web con Vue.js"
 
 ## Project setup
 ```
